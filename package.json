@@ -1,0 +1,13 @@
+{
+  "name": "maximilianvogelde",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Maximilian Vogel",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^1.2.3"
+  },
+  "scripts": {
+    "dev": "next"
+  }
+}
